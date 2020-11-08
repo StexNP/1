@@ -1891,7 +1891,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
 #app-mount .da-headerStreaming {
     background: #593695;
 }
-    /*
+    /* */
     html[style] head ~ body[style] > #app-mount.appMount-3lHmkl .wordmark-2iDDfm::after {
         content: "Dusk to Dawn";
         display: block !important;
@@ -1902,7 +1902,7 @@ section .da-scroller::-webkit-scrollbar-thumb {border: none !important;}
         height: 5px;
         font-size: 0.55rem;
         color: #969696;
-        font-weight: 600; */
+        font-weight: 600;
     }
     .typeWindows-1za-n7 {
         height: 26px; 
